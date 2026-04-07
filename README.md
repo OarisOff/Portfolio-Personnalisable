@@ -1,4 +1,4 @@
-# 🚀 Premium Portfolio Engine by Tropi-Code
+# 🚀  Portfolio by Tropi-Code
 
 Un système de portfolio complet, puissant et ultra-personnalisable, conçu avec PHP et SQLite pour une installation sans prise de tête.
 
